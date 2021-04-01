@@ -1,5 +1,5 @@
 {
-  "extends": "startdard-with-typescript",
+  "extends": "standard-with-typescript",
   "parserOptions": {
     "project": "./tsconfig.json"
   }
