@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
-    "test": "jest --colors",
+    "test": "jest --colors --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "keywords": [],
