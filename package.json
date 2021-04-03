@@ -4,7 +4,7 @@
   "description": "Estudo sobre Clean Architeture",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint",
+    "lint": "eslint src",
     "test": "jest --colors --watch",
     "test:staged": "jest --passWithNoTests"
   },
@@ -15,8 +15,8 @@
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.37",
     "@typescript-eslint/eslint-plugin": "^4.20.0",
-    "eslint": "^7.14.0",
-    "eslint-config-standard-with-typescript": "^11.0.1",
+    "eslint": "^7.23.0",
+    "eslint-config-standard-with-typescript": "^20.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.3.1",
