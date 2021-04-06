@@ -1,5 +1,5 @@
 module.exports = {
-  verbose: true,
+  verbose: false,
   roots: ['<rootDir>/src'],
   bail: 1,
   collectCoverageFrom: [
