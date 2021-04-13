@@ -10,7 +10,14 @@
     "test:staged": "npm test -- --findRelatedTests",
     "test:ci": "npm test -- --coverage"
   },
-  "keywords": [],
+  "keywords": [
+    "TDD",
+    "Clean Architecture",
+    "NodeJS",
+    "MongoDB",
+    "Express",
+    "Design Pattenrs"
+  ],
   "author": "Renato Vicente",
   "license": "ISC",
   "devDependencies": {
