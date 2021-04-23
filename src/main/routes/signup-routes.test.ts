@@ -26,6 +26,6 @@ describe('Signup', () => {
         password: 'fast',
         passwordConfirmation: 'fast'
       })
-      .expect(200)
+      .expect(201)
   })
 })
