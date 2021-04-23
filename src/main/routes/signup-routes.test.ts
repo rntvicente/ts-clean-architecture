@@ -1,7 +1,7 @@
 import request from 'supertest'
 
 import app from '../config/app'
-import { MongoHelper } from '../../infra/db/mongodb/mongo-helper'
+import { MongoHelper } from '../../infra/db/helpers/mongo-helper'
 
 describe('Signup', () => {
   beforeAll(async () => {
